@@ -1,4 +1,5 @@
 # Taller 01 - Git y Resolución de Conflictos
+# Grupo WS01 3
 
 ## Objetivos
 
@@ -282,11 +283,10 @@ Complete esta tabla al final del taller.
 
 | Rol | Nombre | Usuario de GitHub | Commit principal |
 | --- | --- | --- | --- |
-| Líder |  |  |  |
-| Integrante 1 |  |  |  |
-| Integrante 2 |  |  |  |
-| Integrante 3 |  |  |  |
-| Integrante 4 |  |  |  |
+| Líder | Andres Panchana | apanchana | Creo el Repositorio para que puedan clonarlo |
+| Integrante 1 | Daniel Coveña | DanielCovena | Cambio los textos sugeridos y arreglo el error que se le presentaba |
+| Integrante 2 | Mercedes Torres | torresmeche83-max | Cambio los textos sugeridos y arreglo el error que se le presentaba |
+
 
 ## Evidencias
 
@@ -295,21 +295,31 @@ Coloque las capturas dentro de una carpeta llamada `capturas/` y enláselas en e
 Ejemplo:
 
 ```markdown
-### Líder
+### Líder: Andres Panchana
 
 Push exitoso:
 
-![Push exitoso del líder](capturas/lider_push_exitoso.png)
+![Push exitoso del líder](/capturas/lider_push_exitoso.png)
 
-### Integrante 1
+### Integrante 1: Daniel Coveña
 
 Error antes de resolver conflicto:
 
-![Error Integrante 1](capturas/integrante1_error.png)
+![Error Integrante 1](/capturas/integrante1_error.jpeg)
 
 Push exitoso después de resolver conflicto:
 
-![Push exitoso Integrante 1](capturas/integrante1_push_exitoso.png)
+![Push exitoso Integrante 1](/capturas/integrante1_push_exitoso1.jpeg)
+
+### Integrante 2: Mercedes Coveña
+
+Error antes de resolver conflicto:
+
+![Error Integrante 2](/capturas/integrante2_error.jpeg)
+
+Push exitoso después de resolver conflicto:
+
+![Push exitoso Integrante 2](/capturas/integrante2_push_exitoso2.jpeg)
 ```
 
 ## Recomendaciones para resolver conflictos
